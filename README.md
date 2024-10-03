@@ -29,13 +29,13 @@ To run the Python script for data preprocessing, feature extraction, and model t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/davidhwilliams/CSCA-5622-ML-I-Final/tree/main/data.git
+   git clone https://github.com/davidhwilliams/cve-cvss-prediction.git
    ```
 
 2. Navigate to the repository directory:
 
    ```bash
-   cd CSCA-5622-ML-I-Final
+   cd cve-cvss-prediction
    ```
 
 3. Run the Python script:
