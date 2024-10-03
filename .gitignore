@@ -1,4 +1,6 @@
+/.venv
 
+# Data too large
 data/nvdcve-1.1-2020.json
 data/nvdcve-1.1-2021.json
 data/nvdcve-1.1-2022.json
